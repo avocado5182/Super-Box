@@ -13,3 +13,8 @@ p {
 li {
   color: white;
 }
+.about {
+    position: absolute;
+    bottom: 0;
+    top: 350px;
+}

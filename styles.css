@@ -13,14 +13,12 @@ li {
   color: "white";
 }
 html, body {
-  height: 35;
   margin: 0;
 }
-
 div.round {
   width: 90%;
-  padding: 10px;
-  height: 100px;
+  padding: 10;
+  height: 100;
   background: #2F4F4F;
   border-top-right-radius:30;
   border-top-left-radius:30;

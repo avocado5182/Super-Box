@@ -17,11 +17,11 @@ html, body {
 }
 .round {
   width: 100vw;
-  padding: 10;
-  height: 100;
+  padding: 10px;
+  height: 100px;
   background: #2F4F4F;
-  border-top-right-radius:30;
-  border-top-left-radius:30;
-  border-bottom-right-radius:0;
-  border-bottom-left-radius:0;
+  border-top-right-radius:30px;
+  border-top-left-radius:30px;
+  border-bottom-right-radius:1;
+  border-bottom-left-radius:1;
 }

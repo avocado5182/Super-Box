@@ -16,8 +16,7 @@ html, body {
   margin: 0;
 }
 .round {
-  width: 100vw;
-  padding: 10px;
+  width: auto;
   height: 100px;
   background: #2F4F4F;
   border-top-right-radius:30px;

@@ -13,11 +13,11 @@ li {
   color: "white";
 }
 html, body {
-  height: 40%;
+  height: 35%;
   margin: 0;
 }
 
 .full-height {
   height: 100%;
-  background: "darkgray";
+  background: "black";
 }

@@ -22,7 +22,7 @@ html, body {
   background: "black";
 }
 #rcorners {
-  border-radius: 25,25,0,0;
+  border-radius: 25px,25px,0px,0px;
   background: #2F4F4F;
   padding: 20px; 
   width: 200px;

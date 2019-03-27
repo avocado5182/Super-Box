@@ -21,3 +21,10 @@ html, body {
   height: 100;
   background: "black";
 }
+#rcorners {
+  border-radius: 25,25,0,0;
+  background: #2F4F4F;
+  padding: 20px; 
+  width: 200px;
+  height: 150px; 
+}

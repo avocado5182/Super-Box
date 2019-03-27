@@ -22,8 +22,8 @@ div.round {
   padding: 10px;
   height: 100px;
   background: #2F4F4F;
-  border-top-right-radius:20;
-  border-top-left-radius:20;
+  border-top-right-radius:30;
+  border-top-left-radius:30;
   border-bottom-right-radius:0;
   border-bottom-left-radius:0;
 }

@@ -15,7 +15,7 @@ li {
 html, body {
   margin: 0;
 }
-div.round {
+.round {
   width: 90%;
   padding: 10;
   height: 100;

@@ -31,3 +31,7 @@ img.aright  {
 img.aleft`{
   margin-right: auto;
 }
+.small {
+  width: 32px;
+  height: 32px;
+}

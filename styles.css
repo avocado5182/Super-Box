@@ -23,4 +23,5 @@ html, body {
   border-top-left-radius:30px;
   border-bottom-right-radius:1;
   border-bottom-left-radius:1;
+  position: fixed;
 }

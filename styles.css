@@ -35,3 +35,6 @@ img.aleft`{
   width: 32;
   height: 32;
 }
+footer {
+  position: relative;
+}

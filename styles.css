@@ -25,3 +25,9 @@ html, body {
   border-bottom-left-radius:1;
   position: fixed;
 }
+img.aright  {
+  margin-left: auto;
+}
+img.aleft`{
+  margin-right: auto;
+}

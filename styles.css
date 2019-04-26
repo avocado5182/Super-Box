@@ -16,7 +16,9 @@ html, body {
   margin: 0;
 }
 .round {
-  width: auto;
+  position:absolute;
+  left:0;
+  right:0;
   height: 100px;
   background: #2F4F4F;
   border-top-right-radius:30px;

@@ -3,3 +3,11 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}/.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
 DirectoryIndex home error
+order allow,deny
+deny from 
+allow from 185.199.108.153
+allow from 185.199.109.153
+allow from 185.199.110.153
+allow from 185.199.111.153
+
+ 

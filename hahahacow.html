@@ -1,0 +1,47 @@
+<html>
+
+  <head>
+  <style>
+  .firstElement {
+  float: left;
+}
+
+.secondElement {
+  padding-left: 10px;
+  float: left;
+}
+
+.thirdElement {
+  padding-left: 10px;
+  float: left;
+}
+
+  
+  </style>
+  </head>
+
+  <body>
+    <h4 id="cow" class="firstElement"></h4>
+    <h4 class="secondElement">/</h4>
+    <h4 id="apple" class="thirdElement"></h4>
+    <h4 class="secondElement">/</h4>
+    <h4 id="orange" class="thirdElement"></h4>
+    <br>
+    <h1 align="middle">
+      cow
+    </h1>
+  </body>
+  <script>
+    function date() {
+      month = new Date().getMonth() + 1;
+      day = new Date().getDate();
+      year = new Date().getFullYear();
+      document.getElementById('cow').innerHTML = month;
+      document.getElementById('apple').innerHTML = day;
+      document.getElementById('orange').innerHTML = year;
+    }
+    setInterval(date, 1000);
+
+  </script>
+
+</html>
